@@ -1,4 +1,3 @@
-//package icpcTest;
 
 import java.util.Scanner;
 
